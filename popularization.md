@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Popularization
-date: 2018-05-14 08:43
-author: dnietolugilde
-comments: true
-categories: []
+permalink: /popularization/
 ---
 Press notes and divulgation of my research:
 <ul>

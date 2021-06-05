@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Courses
-date: 2018-07-16 13:14
-author: dnietolugilde
-comments: true
-categories: []
+title: Teaching
+permalink: /teaching/
 ---
+
+Botany, plant biogeography, spatiotemporal analysis of biodiversity, and societal implications (landscape planning and environmental impact evaluation).
+
+
 <h2>Botany (Degree in Biology)</h2>
 <ul>
 	<li>Universidad de Granada

@@ -1,10 +1,7 @@
 ---
 layout: page
 title: External resources
-date: 2012-04-27 11:51
-author: dnietolugilde
-comments: true
-categories: []
+permalink: /resources/
 ---
 <strong>Botany:</strong>
 <ul>

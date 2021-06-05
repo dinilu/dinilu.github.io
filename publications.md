@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Publications
-date: 2018-07-16 15:53
-author: dnietolugilde
-comments: true
-categories: []
+title: Research
+permalink: /research/
 ---
+
+I am interested to better understand past, current, and future patterns of biodiversity, as well as the drivers and processes leading to such patterns. Although I feel passionate about all aspects of biodiversity (different spatial scales, taxonomical groups, and/or time periods), I focus in plant diversity patterns during the past at it's changes during long term periods of environmental and ecological change and both local and continental scales.
+
+<h1>Publications</h1>
+
 <h2>Thesis</h2>
 <ul>
 	<li><strong>Nieto-Lugilde, D.</strong> (2008) <i>Estudio aerobiológico de la zona costera de la provincia de Granada (Motril): evolución de las concentraciones de polen y esporas. </i>Universidad de Granada, Granada.</li>
