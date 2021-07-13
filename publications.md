@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-I am interested to better understand past, current, and future patterns of biodiversity, as well as the drivers and processes leading to such patterns. Although I feel passionate about all aspects of biodiversity (different spatial scales, taxonomical groups, and/or time periods), I focus in plant diversity patterns during the past at it's changes during long term periods of environmental and ecological change and both local and continental scales.
+I am interested in better understanding past, current, and future patterns of biodiversity, as well as the drivers and processes leading to such patterns. Although I feel passionate about all aspects of biodiversity (different spatial scales, taxonomical groups, and/or time periods), I focus in plant diversity patterns during the past and it's changes during long term periods of environmental and ecological change and both local and continental scales.
 
 <h1>Publications</h1>
 
