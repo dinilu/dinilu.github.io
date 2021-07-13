@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   of biogeography, macroecology, community-ecology, anthropization and/or
   climate change.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dnietolugilde.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dnietolugilde
 github_username:  dinilu
 
