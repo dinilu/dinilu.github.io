@@ -10,11 +10,17 @@ I am interested to better understand past, current, and future patterns of biodi
 
 <h2>Thesis</h2>
 <ul>
-	<li><strong>Nieto-Lugilde, D.</strong> (2008) <i>Estudio aerobiológico de la zona costera de la provincia de Granada (Motril): evolución de las concentraciones de polen y esporas. </i>Universidad de Granada, Granada.</li>
+
+<strong>Nieto-Lugilde, D.</strong> (2008) <i>Estudio aerobiológico de la zona costera de la provincia de Granada (Motril): evolución de las concentraciones de polen y esporas. </i>Universidad de Granada, Granada.</li>
 </ul>
 <h2>Papers</h2>
 <div class="csl-bib-body">
 
+2021
+<ul>	
+	<li>Pradhan, K., <strong>Nieto-Lugilde, D.</strong>, Fitzpatrick, M.C. (2021) Relationships between climate and phylogenetic community structure of fossil pollen assemblages are not constant during the last deglaciation. <i>PLoS ONE</i> 16(7): e0240957. https://doi.org/10.1371/journal.pone.0240957
+</ul>
+	
 2018
 <ul>
 	<li><strong>Nieto-Lugilde, D.</strong>, López-Sáez, J.A., &amp; Alba-Sánchez, F. (2018) Estudiando los determinantes de la composición de comunidades y sus dinámicas en el pasado incorporando información filogenética y funcional al registro fósil. <i>Revista Ecosistemas</i>, <b>27</b>, 52–61.</li>
