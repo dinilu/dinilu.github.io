@@ -5,7 +5,6 @@ permalink: /about/
 comments: true
 categories: []
 ---
-<h2>Brief story</h2>
 <p>I studied Biology at <a title="Universidad de Granada" href="http://www.ugr.es" target="_blank" rel="noopener">University of Gran</a><a title="Universidad de Granada" href="http://www.ugr.es" target="_blank" rel="noopener">ada</a> (Spain), where I also got <a title="PhD Thesis" href="https://dl.dropboxusercontent.com/u/33940356/PhD-Thesis.pdf" target="_blank" rel="noopener">my PhD</a> on Aerobiology (study of airborne pollen and spores) in 2008. During this period I became interested in spatial analysis and modelling and their applications to interpolate aerobiological data from sampling networks.</p>
 
 <p>Since January 2010, I was working for <a title="Micelios del Sur S.L." href="http://www.misur.es" target="_blank" rel="noopener">MISUR S.L.</a>, managing the I+D department, supervising the design and building of a growing mushroom factory. This young company aim to use olive oil waste, which is biotoxic, to crop the edible mushroom <i>Pleurotus ostreatus</i>, whereas the exhausted substrate remain completely harmless.</p>
