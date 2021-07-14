@@ -8,7 +8,7 @@ I am interested in better understanding past, current, and future patterns of bi
 
 ## Publications
 
-### Thesis
+### PhD Thesis
 
 - <strong>Nieto-Lugilde, D.</strong> (2008) <i>Estudio aerobiológico de la zona costera de la provincia de Granada (Motril): evolución de las concentraciones de polen y esporas. </i>Universidad de Granada, Granada.
 
