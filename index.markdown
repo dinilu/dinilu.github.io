@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+{% comment %} 
+https://theacademicdesigner.com/2020/how-to-make-an-academic-website/#create-content
+{% endcomment %}
