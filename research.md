@@ -14,7 +14,7 @@ I am interested in better understanding past, current, and future patterns of bi
 
 ### Papers
 
-##### 2021
+#### 2021
 	
 - Pradhan, K., <strong>Nieto-Lugilde, D.</strong>, Fitzpatrick, M.C. (2021) Relationships between climate and phylogenetic community structure of fossil pollen assemblages are not constant during the last deglaciation. <i>PLoS ONE</i> 16(7): e0240957. [https://doi.org/10.1371/journal.pone.0240957](https://doi.org/10.1371/journal.pone.0240957)
 	
