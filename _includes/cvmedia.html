@@ -1,0 +1,4 @@
+<ul class="social-media-list">
+  {%- if site.orcid -%}<li><a href="https://orcid.org/{{ site.orcid| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#orcid' | relative_url }}"></use></svg> <span class="username">{{ site.orcid| escape }}</span></a></li>{%- endif -%}
+  {% comment %} {%- if site.facebook_username -%}<li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#facebook' | relative_url }}"></use></svg> <span class="username">{{ site.facebook_username| escape }}</span></a></li>{%- endif -%} {% endcomment %}
+</ul>
