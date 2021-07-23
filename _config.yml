@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+title: dnietolugilde.com
 author: Diego Nieto Lugilde
 email: dnietolugilde@gmail.com
 orcid: 0000-0003-4135-2881
