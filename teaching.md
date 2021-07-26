@@ -6,6 +6,8 @@ permalink: /teaching/
 
 Botany, plant biogeography, spatiotemporal analysis of biodiversity, and societal implications (landscape planning and environmental impact evaluation).
 
+## Degree
+
 <details>
   <summary>Botany (Degree in Biology)</summary>
 	<ul>
@@ -41,3 +43,13 @@ Botany, plant biogeography, spatiotemporal analysis of biodiversity, and societa
 		<li>Universidad de Córdoba</li>
 	</ul>
 </details>
+
+## Master
+
+<details>
+  <summary>Data analysis in R (Master in Environmental Management and Biodivesity)</summary>
+	<ul>
+		<li>Universidad de Córdoba</li>
+	</ul>
+</details>
+
