@@ -16,6 +16,8 @@ I am interested in better understanding past, current, and future patterns of bi
 
 #### 2021
 	
+- **Nieto-Lugilde, D.**, Blois, J.L., Bonet-García, F.J., Giesecke, T., Gil-Romera, G. &amp; Seddon, A. (2021) Time to better integrate paleoecological research infrastructures with neoecology to improve understanding of biodiversity long-term dynamics and to inform future conservation. _Environmental Research Letters_. [https://doi.org/10.1088/1748-9326/ac1b59](https://doi.org/10.1088/1748-9326/ac1b59)
+
 - Pradhan, K., **Nieto-Lugilde, D.**, &amp; Fitzpatrick, M.C. (2021) Relationships between climate and phylogenetic community structure of fossil pollen assemblages are not constant during the last deglaciation. _PLoS ONE_, **16(7)**: e0240957. [https://doi.org/10.1371/journal.pone.0240957](https://doi.org/10.1371/journal.pone.0240957)
 	
 
