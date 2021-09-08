@@ -30,7 +30,9 @@ publons: A-2617-2009
 
 description: >- # this means to ignore newlines until "baseurl:"
   Profesor 
+
   Department of Botany, Ecology and Plant Physiology
+  
   Universidad de Córdoba (Spain)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dnietolugilde.com" # the base hostname & protocol for your site, e.g. http://example.com
