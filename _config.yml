@@ -29,11 +29,8 @@ researchgate: Diego_Nieto_Lugilde
 publons: A-2617-2009
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Botanist and biogeographer with a focus in long term history. I apply
-  ecoinformatics tools on current and palaeobiological records to address
-  questions at different temporal, spatial and taxonomic scales in the fields
-  of biogeography, macroecology, community-ecology, anthropization and/or
-  climate change.
+  Profesor at the Department of Botany, Ecology and Plant Physiology
+  Universidad de Córdoba (Spain)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dnietolugilde.com" # the base hostname & protocol for your site, e.g. http://example.com
 
