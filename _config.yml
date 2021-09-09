@@ -17,9 +17,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+ 
 title: Diego Nieto Lugilde
 author: Diego Nieto Lugilde
+position: Professor
+department: Botany, Ecology and Plant Physiology
+institution: Universidad de Córdoba (Spain)
 email: dnietolugilde@gmail.com
 
 orcid: 0000-0003-4135-2881
@@ -28,10 +31,8 @@ scopus: "13407892200"
 researchgate: Diego_Nieto_Lugilde
 publons: A-2617-2009
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Profesor  
-  Department of Botany, Ecology and Plant Physiology  
-  Universidad de Córdoba (Spain)  
+description: # this means to ignore newlines until "baseurl:"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dnietolugilde.com" # the base hostname & protocol for your site, e.g. http://example.com
 

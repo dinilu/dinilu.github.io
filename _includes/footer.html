@@ -7,27 +7,33 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <p>{{- site.description | escape -}}</p>
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
-              {{ site.title | escape }}
+              {{ site.position | escape }}
             {%- endif -%}
             </li>
+            {%- if site.department -%}
+            <li>{{ site.department }}</li>
+            {%- endif -%}
+            {%- if site.institution -%}
+            <li>{{ site.institution }}</li>
+            {%- endif -%}
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-            {%- include cvmedia.html -%}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        {%- include social.html -%}
+        {%- include cvmedia.html -%}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        {%- include social.html -%}
       </div>
     </div>
 
