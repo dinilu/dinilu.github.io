@@ -3,6 +3,11 @@ layout: page
 title: Popularization
 permalink: /popularization/
 ---
+Radio broadcast
+<ul>
+	<li><a href="https://www.canalextremadura.es/a-la-carta/espacio-protegido/audios/espacio-protegido-221221">Interview in <i>Espacio protegido (Canal Extremadura)</i></a></li>
+</ul>
+
 Press notes and divulgation of my research:
 <ul>
 	<li><a href="https://fotos.europapress.es/p9/t375943/f1594725/">https://fotos.europapress.es/p9/t375943/f1594725/</a></li>
