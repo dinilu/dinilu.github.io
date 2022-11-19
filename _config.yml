@@ -39,7 +39,7 @@ url: "https://dnietolugilde.com" # the base hostname & protocol for your site, e
 twitter_username: dnietolugilde
 github_username:  dinilu
 facebook_username: diego.nieto.lugilde
-mastodon_username: dnieto@fosstodon.org
+mastodon_username: dnieto@ecoevo.social
 
 # Build settings
 theme: minima
