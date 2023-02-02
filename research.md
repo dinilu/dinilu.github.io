@@ -14,9 +14,19 @@ I am interested in better understanding past, current, and future patterns of bi
 
 ### Papers
 
+#### 2022
+
+- Bobo-Pinilla, J., **Nieto Lugilde, D.**, Terrab, A., Balao, F., &amp; Peñas, J. (2022). Spatially explicit assessment of genetic variation to inform conservation effort for an endangered Mediterranean conifer, Cedrus atlantica. _Ecology and Evolution_, 12(12): e9613. [https://doi.org/10.1002/ece3.9613](https://doi.org/10.1002/ece3.9613)
+
+- González-Hernández, A., **Nieto-Lugilde, D.**, Alba-Sánchez, F., &amp; Peñas, J. (2022). Biological Interaction as a Possible Ultimate Driver in the Local Extinction of Cedrus atlantica in the Iberian Peninsula. _Diversity_, 14(2): 2. [https://doi.org/10.3390/d14020136](https://doi.org/10.3390/d14020136)
+
+
 #### 2021
 	
-- **Nieto-Lugilde, D.**, Blois, J.L., Bonet-García, F.J., Giesecke, T., Gil-Romera, G. &amp; Seddon, A. (2021) Time to better integrate paleoecological research infrastructures with neoecology to improve understanding of biodiversity long-term dynamics and to inform future conservation. _Environmental Research Letters_. [https://doi.org/10.1088/1748-9326/ac1b59](https://doi.org/10.1088/1748-9326/ac1b59)
+- González-Hernández, A., **Nieto-Lugilde, D.**, Peñas, J., &amp; Alba-Sánchez, F. (2021). Lean Pattern in an Altitude Range Shift of a Tree Species: Abies pinsapo Boiss. _Forests_, 12(11): 1451. [https://doi.org/10.3390/f12111451](https://doi.org/10.3390/f12111451)
+
+
+- **Nieto-Lugilde, D.**, Blois, J.L., Bonet-García, F.J., Giesecke, T., Gil-Romera, G., &amp; Seddon, A. (2021) Time to better integrate paleoecological research infrastructures with neoecology to improve understanding of biodiversity long-term dynamics and to inform future conservation. _Environmental Research Letters_, **16(9)**: 095005. [https://doi.org/10.1088/1748-9326/ac1b59](https://doi.org/10.1088/1748-9326/ac1b59)
 
 - Pradhan, K., **Nieto-Lugilde, D.**, &amp; Fitzpatrick, M.C. (2021) Relationships between climate and phylogenetic community structure of fossil pollen assemblages are not constant during the last deglaciation. _PLoS ONE_, **16(7)**: e0240957. [https://doi.org/10.1371/journal.pone.0240957](https://doi.org/10.1371/journal.pone.0240957)
 	
