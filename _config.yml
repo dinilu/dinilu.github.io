@@ -40,6 +40,8 @@ url: "https://dnietolugilde.com" # the base hostname & protocol for your site, e
 twitter_username: dnietolugilde
 github_username:  dinilu
 researchgate_username: Diego-Nieto-Lugilde
+facebook_username: diego.nieto.lugilde
+mastodon_username: dnieto@ecoevo.social
 
 # Build settings
 theme: minima
