@@ -56,7 +56,7 @@ Botany, plant biogeography, spatiotemporal analysis of biodiversity, and societa
 ## Postgraduate teaching
 
 <details>
-  <summary>[Análisis espaciales y multivariantes en R aplicados a estudios de Biodiversidad](https://dnietolugilde.com/AEMeR)</summary>
+  <summary><a href="https://dnietolugilde.com/AEMeR" target="_blank">Análisis espaciales y multivariantes en R aplicados a estudios de Biodiversidad</a></summary>
 	<ul>
 		<li>Universidad Nacional del Sur</li>
 	</ul>
