@@ -30,7 +30,8 @@ gscholar: dnietolugilde
 scopus: "13407892200"
 researchgate: Diego_Nieto_Lugilde
 publons: A-2617-2009
-iNnaturalist: diego_nieto_lugilde
+inaturalist: diego_nieto_lugilde
+mastodon: "ecoevo.social/@dnieto"
 
 description: "" # this means to ignore newlines until "baseurl:"
 

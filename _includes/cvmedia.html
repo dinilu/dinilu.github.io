@@ -5,5 +5,5 @@
   {%- if site.inaturalist -%}<li><a href="https://www.inaturalist.org/people/diego_nieto_lugilde" target="_blank"><svg class="svg-icon"><use xlink:href="{{ 'assets/minima-cv-icons.svg#inaturalist' | relative_url }}"></use></svg> <span class="username">{{ site.inaturalist| escape }}</span></a></li>{%- endif -%}
   {%- if site.researchgate -%}<li><a href="https://www.researchgate.net/profile/{{ site.researchgate| cgi_escape | escape }}" target="_blank"><svg class="svg-icon"><use xlink:href="{{ 'assets/minima-cv-icons.svg#researchgate' | relative_url }}"></use></svg> <span class="username">{{ site.researchgate| escape }}</span></a></li>{%- endif -%}
   {%- if site.publons -%}<li><a href="https://publons.com/researcher/671295/diego-nieto-lugilde/" target="_blank"><svg class="svg-icon"><use xlink:href="{{ 'assets/minima-cv-icons.svg#publons' | relative_url }}"></use></svg> <span class="username">{{ site.publons| escape }}</span></a></li>{%- endif -%}
-  <a rel="me" href="https://ecoevo.social/@dnieto">Mastodon</a>
+  {%- if site.mastodon -%}<li><a href="https://ecoevo.social/@dnieto" target="_blank"><svg class="svg-icon"><use xlink:href="{{ 'assets/minima-cv-icons.svg#publons' | relative_url }}"></use></svg> <span class="username">{{ site.mastodon| escape }}</span></a></li>{%- endif -%}
 </ul>
